@@ -10,7 +10,6 @@
     "postinstall": "prisma generate"
   },
   "dependencies": {
-    "@clerk/nextjs": "^6.12.0",
     "@neondatabase/serverless": "^0.10.4",
     "@prisma/adapter-neon": "^6.5.0",
     "@radix-ui/react-dialog": "^1.1.6",
